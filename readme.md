@@ -1,9 +1,7 @@
-
 # pronari
 
-
 ```
-Enver (Imri) Balija	
+Enver (Imri) Balija
 1170112748
 +38349535250
 
@@ -23,15 +21,15 @@ FSHATI
 6705 m²
 Arë (8)
 Fshati
-01448-9	
+01448-9
 2213 m²
 Mal(5)
 Fshati
 
 		a	m
 03709-10	500	244	256
-03709-11	600		
-03709-12	4518		
+03709-11	600
+03709-12	4518
 
 
 ```
@@ -44,7 +42,7 @@ Fshati
 | 03709-9  | 5618  | 03709-10  | 500  |
 | -------  | ----- | 03709-11  | 600  |
 | -------  | ----- | 03709-12  | 4518 |
-| Gjithsej | 5067  | Gjithsej  | 5067 |
+| Gjithsej | 5618  | Gjithsej  | 5618 |
 
 
 # kerkesa
@@ -52,7 +50,7 @@ Fshati
 
 ```
 259/2025
-Enver (Imri) Balija	
+Enver (Imri) Balija
 1170112748
 +38349535250
 Rr. "Rugova" - Ferizaj
@@ -61,6 +59,7 @@ Jezerc
 
 dyfishet
 
+1,12
 
 15 Sep 2025
 

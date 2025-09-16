@@ -51,10 +51,9 @@ Fshati
 
 
 ```
-
+259/2025
 Enver (Imri) Balija	
 1170112748
-
 +38349535250
 Rr. "Rugova" - Ferizaj
 Jezerc
